@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     icon: "/bellamaths_logo.webp",
   },
   facebook: {
-    appId: "1234567890", // Placeholder: Replace with your actual Facebook App ID
+    appId: "1607009570450587",
   },
   openGraph: {
     title: "BellaMaths",
