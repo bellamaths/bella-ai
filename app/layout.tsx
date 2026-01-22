@@ -18,6 +18,9 @@ export const metadata: Metadata = {
   icons: {
     icon: "/bellamaths_logo.webp",
   },
+  facebook: {
+    appId: "1234567890", // Placeholder: Replace with your actual Facebook App ID
+  },
   openGraph: {
     title: "BellaMaths",
     description: "Advanced Agentic Coding with BellaMaths",
